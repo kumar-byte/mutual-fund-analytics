@@ -1,0 +1,41 @@
+DATA QUALITY SUMMARY:
+
+Dataset: 01_fund_master.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 02_nav_history.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 03_aum_by_fund_house.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 04_monthly_sip_inflows.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 05_category_inflows.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 06_industry_folio_count.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 07_scheme_performance.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 08_investor_transactions.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 09_portfolio_holdings.csv
+- Loaded successfully
+- No loading errors
+
+Dataset: 10_benchmark_indices.csv
+- Loaded successfully
+- No loading errors
