@@ -61,7 +61,7 @@ FROM fact_transactions
 GROUP BY gender;
 
 
---Query 10: State-wise transaction amount
+--Query 10: State-wise transaction amount.
 SELECT
     state,
     SUM(amount_inr) AS total_amount

@@ -79,3 +79,5 @@
 | date           | DATE      | 03_aum_by_fund_house.csv |
 | aum_lakh_crore | FLOAT     | 03_aum_by_fund_house.csv |
 | num_schemes    | INT       | 03_aum_by_fund_house.csv |
+
+## end
