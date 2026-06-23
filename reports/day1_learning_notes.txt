@@ -1,0 +1,10 @@
+Day 1 Learnings
+
+1. GitHub repository creation
+2. Git add, commit, push
+3. Reading CSV files using Pandas
+4. Data quality checks
+5. API calls using requests
+6. JSON response handling
+7. Exploratory Data Analysis
+8. AMFI code validation
