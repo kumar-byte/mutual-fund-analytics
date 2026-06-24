@@ -1,0 +1,57 @@
+# Mutual Fund Analytics - Key EDA Findings
+
+### 1. NAV Trend Analysis
+
+The NAV trends of mutual fund schemes showed steady long-term growth from 2022 to 2025, with periodic fluctuations 
+reflecting market conditions.
+
+### 2. AUM Analysis
+
+Assets Under Management increased across major fund houses during the study period. SBI Mutual Fund consistently 
+maintained the highest AUM, indicating strong investor trust and market leadership.
+
+### 3. SIP Inflow Analysis
+
+Monthly SIP inflows displayed a strong upward trend and reached a record ₹31,002 crore in December 2025, 
+highlighting growing retail investor participation.
+
+### 4. Category-wise Inflow Analysis
+
+Equity-oriented categories such as Flexi Cap, Mid Cap, and Small Cap attracted higher investor inflows compared to other categories, 
+indicating preference for growth-focused investments.
+
+### 5. Investor Demographics
+
+Most investors belonged to working-age groups. Investment participation was higher among individuals with stable 
+income levels and long-term wealth creation goals.
+
+### 6. Geographic Distribution
+
+Investor activity was concentrated in major states and urban regions. However, participation from Tier-2 
+and smaller cities also increased, showing broader market penetration.
+
+### 7. Folio Growth Analysis
+
+The total number of mutual fund folios increased from 13.26 crore in January 2022 to 26.12 crore in December 2025, 
+reflecting significant growth in the investor base.
+
+### 8. Correlation Matrix Analysis
+
+The correlation matrix showed that many selected funds exhibited positive correlations in NAV returns, indicating similar 
+responses to market movements and economic conditions.
+
+### 9. Sector Allocation Analysis
+
+Portfolio investments were distributed across multiple sectors, with certain sectors receiving larger allocations 
+due to their growth potential and market performance.
+
+### 10. Overall Industry Growth
+
+The mutual fund industry demonstrated strong expansion during the analysis period, supported by increasing SIP inflows, 
+rising folio counts, higher AUM, and growing investor participation.
+
+## Conclusion
+
+The analysis indicates that the mutual fund industry experienced healthy growth between 2022 and 2025. 
+Increasing investor awareness, strong SIP contributions, expanding folio counts, and sustained fund performance contributed 
+to the industry's overall success.
