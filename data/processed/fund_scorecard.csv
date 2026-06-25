@@ -1,0 +1,7 @@
+fund_name,3Y_CAGR_%,sharpe_ratio,alpha_%,max_drawdown_%,expense_ratio,return_rank,sharpe_rank,alpha_rank,expense_rank,drawdown_rank,final_score
+kotak_bluechip,17.63,0.705,10.57,-33.43,1.59,1.0,3.0,2.0,5.0,3.0,2.5
+nippon_large_cap,15.03,0.556,8.31,-39.96,1.51,2.0,5.0,3.0,2.0,6.0,3.35
+icici_bluechip,10.82,0.632,-0.92,-33.51,1.42,3.0,4.0,5.0,1.0,4.0,3.4499999999999997
+axis_bluechip,7.36,0.759,0.58,-1.39,1.64,4.0,2.0,4.0,6.0,1.0,3.5
+sbi_bluechip,-2.0,-0.722,-9.81,-36.65,1.54,5.0,6.0,6.0,3.0,5.0,5.15
+hdfc_top100,,1.522,19.25,-10.88,1.55,,1.0,1.0,4.0,2.0,
